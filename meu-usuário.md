@@ -11,4 +11,4 @@
 ## Contato
 - GitHub: @seu-usuario
 - E-mail: seu.email@exemplo.com
-*Criado em: 19/03/2026
+*Criado em: [19/03/2026*]
